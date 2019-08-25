@@ -1,1 +1,1 @@
-Learn Ruby the Hard Way Book - Exercises
+Learn Ruby the Hard Way - Book Exercises
